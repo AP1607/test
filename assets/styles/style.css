@@ -1,0 +1,21 @@
+h1 {
+    background-color: blue;
+}
+
+h2 {
+    color: red;
+}
+
+img {
+    width: 200px;
+    height: 150px;
+}
+
+a {
+    color: green;
+}
+
+.welcome {
+    background-color: green;
+    color:red;
+}
